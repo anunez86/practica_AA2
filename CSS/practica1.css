@@ -1,0 +1,167 @@
+body{
+    background: #e1f101;
+    width: 1050px;
+    margin:auto;
+}
+
+#cabecera{
+    background: #061ffa;
+    width: 1000px;
+    margin:auto;
+}
+
+header{
+    background: #fd2111;
+    height: 350px;
+    width: 1000px;
+}
+
+#borde{
+    clear: both;
+    background: #0099ff;
+    height: 25px;
+    width: 1000px;
+    float: left;
+}
+
+#contenedor1{
+    clear: both;
+    background: #fd2111;
+    height: 350px;
+    width: 1000px;
+}
+
+#contenedor2{
+    clear: both;
+    background: #fd2111;
+    height: 350px;
+    width: 1000px;
+}
+
+#fondoweb{
+    clear: both;
+    background: #e1f101;
+    height: 35px;
+    width: 1000px;
+}
+
+#item1{
+    background: #0099ff;
+    width: 25px;
+    height: 300px;
+    float: left;
+}
+
+#item2{
+    width: 300px;
+    height: 300px;
+    background: #118036;
+    float: left;
+}
+
+#item3{
+    background: #7cf84a;
+    width: 25px;
+    height: 300px;
+    float: left;
+}
+
+#item4{
+    background: #118036;
+    width: 437px;
+    height: 300px;
+    float: left;
+}
+
+#item5{
+    background: #7cf84a;
+    width: 26px;
+    height: 300px;
+    float: left;
+}
+
+
+#item6{
+    background: #0099ff;
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+
+#item7{
+    background: #7cf84a;
+    width: 950px;
+    height: 25px;
+    float: left;
+}
+
+#item8{
+    background: #0099ff;
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+
+#item9{
+    background: #118036;
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+#item10{
+    background: #118036;
+    width: 250px;
+    height: 300px;
+    float: left;
+}
+
+#item11{
+    background: #0099ff;
+    width: 25px;
+    height: 100px;
+    float: left;
+}
+
+#item12{
+    background: #118036;
+    width: 950px;
+    height: 100px;
+    float: left;
+}
+
+
+#imagen1{
+    background: url("../Images/Bosque.jpg");
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    float: left;
+}
+
+#imagen2{
+    background: url("../Images/sunset.jpg");
+    width: 437px;
+    height: 300px;
+    background-size: cover;
+    float: left;
+}
+
+#imagen3{
+    background: url("../Images/dibujo.jpg");
+    width: 250px;
+    height: 100px;
+    float: left;
+}
+
+footer{
+    background: #fd2111;
+    height: 250px;
+    width: 1000px;
+}
+
+#fondofin{
+    clear: both;
+    background: #e1f101;
+    height: 150px;
+    width: 1000px;
+}

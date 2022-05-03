@@ -1,0 +1,43 @@
+#principal{
+    background: #eec5b8;
+    width: 1000px;
+    margin:auto;
+
+}
+header{
+background: #abd842;
+height: 150px;
+}
+
+nav{
+background: #2bcec6;
+height: 90px;
+}
+
+#izquierda{
+    background: #b8578c;
+width: 250px;
+height: 250px;
+float: left;
+}
+
+#centro{
+width: 500px;
+height: 250px;
+background: #673d8f;
+float: left;
+}
+
+#derecha{
+    background: #b8578c;
+width: 250px;
+height: 250px;
+float: left;
+}
+
+#alfombra{
+    clear: both;
+    background: url("../Images/onepiece.png");
+    height: 200px;
+    background-size: contain ;
+}
